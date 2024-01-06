@@ -1,0 +1,46 @@
+.single {
+    display: flex;
+    width: 100%;
+
+    .singleContainer {
+        flex: 6;
+
+        .user-info {
+            -webkit-box-shadow: 3px 7px 10px 7px rgba(224, 224, 224, 0.75);
+            -moz-box-shadow: 3px 7px 10px 7px rgba(224, 224, 224, 0.75);
+            box-shadow: 3px 7px 10px 7px rgba(224, 224, 224, 0.75);
+
+            align-items: center;
+
+            .user-name {
+                font-size: 18px !important;
+            }
+
+            .users {
+                display: flex;
+                justify-content: space-around;
+                align-items: baseline;
+
+                .email {
+                    font-size: 15px;
+                }
+
+                .user-img {
+                    margin-top: 10px;
+                    width: 150px;
+                    height: 150px;
+                    border-radius: 5px;
+                    object-fit: cover;
+
+                }
+            }
+        }
+    }
+
+
+
+
+
+
+
+}

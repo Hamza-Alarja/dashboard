@@ -1,0 +1,22 @@
+$mainColor: #ec028c;
+
+.Modal.Header {
+    transform: scale(0.9);
+    padding: 100px !important;
+
+
+}
+
+.img-preview {
+    max-width: 50px !important;
+    height: 50px !important;
+    border-radius: 50%;
+    margin: 1rem;
+}
+
+.addButton {
+    background-color: $mainColor !important;
+    border: none;
+
+
+}

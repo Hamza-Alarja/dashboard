@@ -1,0 +1,21 @@
+.calendar {
+  border-radius: 10px;
+  height: 500px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgba(255, 7, 185, 0.07);
+  border: none;
+  color: red;
+}
+.react-calendar__tile--active {
+  background: red;
+}
+.react-calendar__tile--active:hover {
+  background: red !important;
+}
+.react-calendar__tile--active:focus {
+  background: red !important;
+}

@@ -1,0 +1,12 @@
+.status {
+  display: flex;
+  width: 100%;
+
+  .singleContainer {
+    flex: 6;
+
+    .Status-box {
+      transform: scale(0.9);
+    }
+  }
+}
