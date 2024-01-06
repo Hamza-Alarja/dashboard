@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.82a07dbd.css",
+    "main.js": "/dashboard/static/js/main.7df9d5bd.js",
+    "static/media/fa-solid-900.ttf": "/dashboard/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/glass.png": "/dashboard/static/media/glass.052f08fcf3a88edb9c98.png",
+    "static/media/fa-brands-400.ttf": "/dashboard/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/dashboard/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/dashboard/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/dashboard/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/less.webp": "/dashboard/static/media/less.80a5c352437b73e8fb03.webp",
+    "static/media/sweatshirt.jpg": "/dashboard/static/media/sweatshirt.5397f175d480ad269b13.jpg",
+    "static/media/fa-regular-400.woff2": "/dashboard/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/back-shirt.jpg": "/dashboard/static/media/back-shirt.2474c07ba5c5941fa519.jpg",
+    "static/media/cap.jpg": "/dashboard/static/media/cap.fab527adfa27472ad6b4.jpg",
+    "static/media/fa-v4compatibility.ttf": "/dashboard/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/mug.jpg": "/dashboard/static/media/mug.b36cc70ab9a2498848a6.jpg",
+    "static/media/fa-v4compatibility.woff2": "/dashboard/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/dashboard/index.html",
+    "main.82a07dbd.css.map": "/dashboard/static/css/main.82a07dbd.css.map",
+    "main.7df9d5bd.js.map": "/dashboard/static/js/main.7df9d5bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a07dbd.css",
+    "static/js/main.7df9d5bd.js"
+  ]
+}
